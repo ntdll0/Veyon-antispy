@@ -1,4 +1,3 @@
-﻿#include <iostream>
 #include <Windows.h>
 
 LRESULT CALLBACK proc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam) {
