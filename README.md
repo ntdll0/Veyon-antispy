@@ -1,2 +1,2 @@
-# Veyon-antispy
-Hides screen from veyon screenshare lmao
+# Veyon Antispy
+Hides screen from veyon screenshare
